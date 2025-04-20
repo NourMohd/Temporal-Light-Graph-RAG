@@ -1,6 +1,7 @@
 # pip install -q -U google-genai to use gemini as a client
 
 import os
+import json
 import numpy as np
 from google import genai
 from google.genai import types
@@ -17,9 +18,9 @@ import nest_asyncio
 nest_asyncio.apply()
 
 load_dotenv()
-gemini_api_key = os.getenv("GEMINI_API_KEY")
+gemini_api_key = ""
 
-WORKING_DIR = "./dickens"
+WORKING_DIR = "./chunks output"
 
 if os.path.exists(WORKING_DIR):
     import shutil
@@ -87,11 +88,20 @@ async def initialize_rag():
 def main():
     # Initialize RAG instance
     rag = asyncio.run(initialize_rag())
-    file_path = "story.txt"
-    with open(file_path, "r") as file:
-        text = file.read()
 
-    rag.insert(text)
+    file_path = "corpus_chunks.json"
+    with open(file_path, "r", encoding="utf-8") as file:
+    # this will give you a Python dict/list depending on your JSON structure
+            records = json.load(file)                # records: list[dict]
+            start = 400
+            end = 500
+            records = records[start:end]
+            texts   = [rec["chunk"] for rec in records]
+    # file_path = "story.txt"
+    # with open(file_path, "r") as file:
+    #     text = file.read()
+
+    rag.insert(texts)
 
     response = rag.query(
         query="What is the main theme of the story?",
