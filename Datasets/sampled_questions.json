@@ -1,0 +1,402 @@
+[
+  {
+    "query": "Which company, known for ranking local search results based on relevance, distance, and prominence according to an article from The Verge, is also mentioned in two TechCrunch articles, one discussing the lack of planned additional measures for a video platform in the next six months, and the other citing a class action antitrust suit for siphoning off content, readers, and ad revenue from news publishers?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual that has become a significant figure in the realm of artificial intelligence, particularly due to their association with generative AI technology and the envisioning of AI agents to assist with various tasks, and whose integrity was questioned by a prevailing theory as mentioned in articles from both Fortune and TechCrunch?",
+    "answer": "Sam Altman"
+  },
+  {
+    "query": "Which football club, recently discussed in articles from 'The Guardian', 'The Roar | Sports Writers Blog', and 'BBC News - Entertainment & Arts', had a significant change in league position due to a points penalty after a series of wins, and is recognized for its history and community importance as emphasized by Farhad Moshiri following an introduction by its late chairman Bill Kenwright?",
+    "answer": "Everton Football Club"
+  },
+  {
+    "query": "Who is the individual that presented himself as a trustworthy figure in the cryptocurrency industry according to The Verge, was informed about a significant financial discrepancy after a judge's intervention, and is alleged by the prosecution in a TechCrunch article to have committed fraud for personal gains?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual under 30, once considered the richest in that age bracket, who has pleaded not guilty to fraud and conspiracy charges and is accused by the prosecution of committing fraud to achieve wealth, power, and influence, as reported by TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, according to TechCrunch articles, invested billions to secure its status as the default search engine on various platforms and is also accused of harming news publishers' revenue streams through anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual associated with FTX, who, according to reports from 'Cnbc | World Business News Leader', 'The Verge', 'TechCrunch', and another 'TechCrunch' article, planned to establish a board with experts for his company, struggled with managing the significant growth of his company alongside Alameda Research, was implicated in directing a $14 billion customer fund misappropriation, and is alleged by the prosecution to have committed fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual that, before the FTX collapse, was seen as a trustworthy figure in the cryptocurrency industry, convinced a colleague from Jane Street to join his ventures, decided to use a substantial amount of customer funds to settle with a competitor, and is now facing allegations of fraud for personal gain according to reports from The Verge, Fortune, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which pop star, who is open about her relationship with a Chiefs TE and is unaffected by paparazzi attention, has a busy schedule with the Eras Tour and received a friendship bracelet with his number from her partner, as reported by 'The Independent - Life and Style' and 'CBSSports.com'?",
+    "answer": "Taylor Swift"
+  },
+  {
+    "query": "What company is at the center of claims involving manipulation of search results to maximize ad revenue according to Megan Grey in 'The Age', ranking local search results based on relevance, distance, and prominence as reported by 'The Verge', and is accused by a news publisher in a class action antitrust suit covered by 'TechCrunch' for harming their bottom line through anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Which celebrity, known for experiencing significant events away from media scrutiny, was recognized by 'The Independent - Life and Style' as Time's Person of the Year, has been rumored to be romantically linked with a Chiefs TE according to 'CBSSports.com', and was also spotted supporting at Arrowhead Stadium as reported by 'The Age'?",
+    "answer": "Taylor Swift"
+  },
+  {
+    "query": "Which individual, discussed across articles from Fortune, The Verge, and TechCrunch, is at the center of a legal case where the jury must assess contrasting narratives of his actions, including allegations of using a front for secret access to customer funds and committing fraud for personal gain, while also claiming to have been overwhelmed by the growth of his business ventures?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual that presented themselves as a trustworthy figure in the cryptocurrency industry, as reported by The Verge, but is also alleged by the prosecution in a TechCrunch article to have committed fraud, and according to The Verge, informed another trader about permissible withdrawals from an account tied to a now-collapsed company and also admitted to being aware of a financial discrepancy after a judge's intervention?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which person, who has been open about her relationship with Travis Kelce and was spotted at Arrowhead Stadium, has a tour booked for the next year and has stated that paparazzi attention does not affect her, as reported by 'The Independent - Life and Style' and 'The Age'?",
+    "answer": "Taylor Swift"
+  },
+  {
+    "query": "Which company, featured in multiple TechCrunch articles, has both invested in new hardware developments during an annual event and has been involved in antitrust actions for securing default search engine positions and affecting news publishers' revenues through its practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "What are the entities that not only provide introductory incentives to attract users but also modify their betting options for events and player awards based on news and public sentiment, as reported by the Sporting News?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "Which company, according to articles from TechCrunch and The Age, has not only invested billions to remain the default search engine on various devices but is also accused of manipulating search results for ad revenue and harming news publishers' revenues through anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual under 30, once considered the richest in that age group according to TechCrunch, who is now facing a criminal trial on charges including fraud and conspiracy, and has pleaded not guilty, with allegations of using fraudulent means for gaining wealth, power, and influence?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, known for creating a Prime-themed sale day according to Wired, also offers a two-pack of USB-C-to-USB-C cables for purchase as reported by Polygon, has a dominant position in the e-reader space with its Kindle lineup as mentioned by The Verge, and is considered a life-changing opportunity for sellers by Cnbc | World Business News Leader?",
+    "answer": "Amazon"
+  },
+  {
+    "query": "Which company, known for ranking local search results based on relevance, distance, and prominence, is also involved in legal disputes concerning the distribution of Android apps and the operation of app stores, and is accused of harming news publishers' revenue and content through anticompetitive practices, as reported by The Verge and TechCrunch?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual associated with the cryptocurrency industry who, according to articles from The Verge and TechCrunch, presented himself as trustworthy before his company's collapse, admitted to being informed about financial discrepancies after judicial intervention, was alleged to have instructed a colleague to use customer funds to repay debts, and is accused by the prosecution of committing fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who became a significant figure in generative AI due to ChatGPT, is considered one of the most brilliant and impactful people in the tech industry, and has been accused by sources from both Fortune and TechCrunch of being ousted from a board that he allegedly misled?",
+    "answer": "Sam Altman"
+  },
+  {
+    "query": "Who is the individual under 30, once considered the wealthiest in that age group according to TechCrunch, who is facing allegations of fraud by the prosecution, and told Paradigm about his intentions for FTX's board structure, as reported by Cnbc | World Business News Leader?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, recently scrutinized by TechCrunch for both its antitrust legal defense involving document disclosure and the alleged harm its AI has caused to news publishers' revenue, also claims that its new generative AI model Gemini has capabilities that rival or exceed those of OpenAI's models?",
+    "answer": "Google"
+  },
+  {
+    "query": "What is the name of the service, covered by TechCrunch, that is temporarily free for users due to Apple's interference and is known for reverse-engineering the iMessage protocol to extend functionality to Android users?",
+    "answer": "Beeper Mini"
+  },
+  {
+    "query": "Who is the individual recognized as a prodigy in Silicon Valley since his early twenties, known for showcasing a vision for AI agents at OpenAI's developer conference, and has been described by 'Fortune' and 'TechCrunch' as both brilliant and impactful in the industry as well as generous and caring, but is also suspected of not being fully truthful with the board?",
+    "answer": "Sam Altman"
+  },
+  {
+    "query": "Who is the individual associated with FTX and Alameda Research that allegedly used customer funds to secure personal gains and simultaneously expressed to Paradigm a desire to establish an expert board for FTX while admitting challenges in managing the rapid expansion of both companies, as reported by Cnbc | World Business News Leader, The Verge, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "What type of businesses, frequently featured in Sporting News articles, are known to manipulate betting lines to manage their financial risk and ensure profitability, regardless of the event outcomes or where large sums of money are wagered?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "Which sportsbook, highlighted by both 'Sporting News' and 'CBSSports.com', provides a cash-out option for MLB bets, a welcome bonus plus NBA promotions, and up to $1,000 in bonus bets for new customers in Kentucky and Vermont if their first bet does not win?",
+    "answer": "Caesars Sportsbook"
+  },
+  {
+    "query": "Who is the pop star that was rumored to have a secret start to her relationship with a Chiefs TE, known for experiencing major events privately and for not letting paparazzi affect her, and was also the subject of a story on CBSSports.com where a friendship bracelet played a role?",
+    "answer": "Taylor Swift"
+  },
+  {
+    "query": "Which individual, whose trial involving seven counts of fraud and conspiracy is covered by both Fortune and TechCrunch, is accused of using FTX customer funds to buy out Binance and is alleged by the prosecution to have committed these acts for wealth, power, and influence?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which country, recently discussed in articles from Fortune, Globes English | Israel Business Arena, and Business Today | Latest Stock Market And Economy News India, has faced challenges such as a blockade leading to relocation warnings in Gaza, reached understandings to cease hostilities with Hamas, and has been the subject of discussions regarding intelligence failures in the context of surprise attacks?",
+    "answer": "Israel"
+  },
+  {
+    "query": "What group of people can utilize the options provided by team golf events to place bets on outcomes or engage in prop betting, and also capitalize on the hype generated around events to potentially profit, as reported by Sporting News?",
+    "answer": "Bettors"
+  },
+  {
+    "query": "What are the entities that, according to Sporting News, not only offer welcome bonuses with specific requirements but also modify their betting lines in response to events like injuries or roster changes, and tighten NBA Rookie of the Year odds, all while adjusting odds to manage their liability when heavy betting occurs on a particular team or individual?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "Who is the individual implicated in the FTX collapse, accused of directing a $14 billion misuse of customer funds for debt repayment, utilizing a colleague as a facade for unauthorized access to these funds, and facing allegations of intentional fraud for personal gain according to reports from TechCrunch and Fortune?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, as reported by both TechCrunch and The Verge, has spent billions to maintain its default search engine status on various platforms and is also accused of harming news publishers’ revenue through its business practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual associated with the FTX exchange whose alleged fraudulent activities, as reported by Fortune and TechCrunch, not only led to a thriving crypto exchange built on misrepresentations but also involved instructions to misuse billions in customer funds and resulted in multiple charges of fraud and conspiracy, for which he has pleaded not guilty?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which individual, subject to a criminal trial covered by TechCrunch and associated with allegations of fraud and conspiracy for their actions at a crypto exchange, is also accused by Fortune of using a colleague at Alameda Research to secretly access customer funds and whose purported success was claimed to be based on falsehoods?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual facing a criminal trial as reported by TechCrunch, whose alleged permissible withdrawal conditions to another trader were detailed by The Verge, and who, after an intervention by Judge Lewis Kaplan, admitted to being informed about a financial discrepancy, with the same source also alleging that this person committed fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which individual is at the center of legal proceedings where he is depicted variably as a fraudulent actor by the prosecution, as per TechCrunch, and is accused of instructing a $14 billion misappropriation of customer funds, as well as using $1 billion to buy out a competitor, all while his legal representation contrasts this narrative in a trial covered by Fortune?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company is at the center of allegations involving manipulation of search results to maximize ad revenue according to 'The Age', is likely to win a legal case about phones and app stores if the market is defined broadly as per 'The Verge', was deemed the only valid search engine service option by 'Apple' as reported by 'The Verge', and is accused of using anticompetitive practices to harm news publishers' financial interests as per 'TechCrunch'?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual associated with FTX and Alameda, who allegedly used deceit to build a thriving crypto exchange, convinced a former Jane Street colleague to join his ventures, and is accused of misappropriating $1 billion of customer funds as well as committing fraud for personal gain, and has been discussed in articles by Fortune, The Verge, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, founded in late 2015 and known for its generative AI poster child behind ChatGPT, is anticipated by TechCrunch to promote an \"app store for AI\" as a primary platform and to release GPT-4 with vision alongside the GPT-4 Turbo API?",
+    "answer": "OpenAI"
+  },
+  {
+    "query": "Which basketball team, recently commended by Yardbarker for their draft choices of Jonathan Kuminga and Moses Moody, would also lead to a successful point spread bet as per Sporting News if they were to win by 10 or more points?",
+    "answer": "Golden State Warriors"
+  },
+  {
+    "query": "Who is the individual that, prior to being charged with fraud and conspiracy, was characterized as a reliable cryptocurrency figure by The Verge, convinced a colleague from Jane Street to join his ventures according to Fortune, and is accused by the prosecution of intentionally committing fraud for personal gain as reported by TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "What company, recently covered by TechCrunch, is involved in an antitrust battle where it provided extensive evidence to the court, held an annual hardware event to showcase new developments, compared the performance of its project Gemini Pro to OpenAI's GPT-3.5, and is accused of harming news publishers' revenues through anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Which company, recently reviewed by TechCrunch for its 16-inch M3 Max MacBook Pro, is known for its stance on user privacy and its association with Google, is involved in an 18-month appeal process regarding a patent dispute with Masimo, and has been critiqued by Tim Sweeney for enforcing uniform terms on developers, OEMs, and carriers through its store and payment system, as reported by The Verge?",
+    "answer": "Apple"
+  },
+  {
+    "query": "Which company, reported by TechCrunch, has both invested $26.3 billion to maintain its default search engine status across devices and platforms in 2021, and has been accused in a class action lawsuit of harming news publishers' revenues and readership through anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Which company, featured in articles from both Wired and Cnbc | World Business News Leader, introduced an invite-only deal system during a summer event for its members and is also considered to provide a life-changing opportunity for its sellers?",
+    "answer": "Amazon"
+  },
+  {
+    "query": "Who is the individual that, according to articles from The Verge, Fortune, and TechCrunch, used FTX customer funds to secure a buyout, recruited a colleague from Jane Street for ventures at Alameda and FTX, and is facing allegations of committing fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who has been considered a prodigy in Silicon Valley since his early twenties and is associated with a vision for AI agents' future, but faced controversy at OpenAI according to articles from both Fortune and TechCrunch?",
+    "answer": "Sam Altman"
+  },
+  {
+    "query": "Who is the individual under 30, previously associated with Jane Street, who is facing seven charges of fraud and conspiracy, and is believed by the prosecution to have committed fraud for wealth, power, and influence, and has also been reported to have tried to use his fortune to potentially influence political events?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which leading AI development company, known as the generative AI poster child behind ChatGPT and mentioned by TechCrunch, is expected to release GPT-4 with vision alongside the launch of GPT-4 Turbo API?",
+    "answer": "OpenAI"
+  },
+  {
+    "query": "What is the name of the cryptocurrency exchange that was established by Sam Bankman-Fried due to his dissatisfaction with competitors while running Alameda Research and is known to employ liquidation to handle the risks of customer bets, as reported by The Verge?",
+    "answer": "FTX"
+  },
+  {
+    "query": "Who is the individual implicated in using a colleague as a cover for unauthorized access to customer funds, admitted to being overwhelmed by the growth of a cryptocurrency exchange leading to management issues, and is accused of misappropriating a billion dollars of customer funds to settle with a competitor, all while facing allegations of fraud for personal gain, as reported by Fortune, The Verge, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, defended by Apple for being the default search engine on platforms like Samsung and Mozilla according to The Verge, is also the creator of Gemini, a generative AI model claimed by TechCrunch to potentially meet or exceed GPT-4's performance, and is accused in a class action antitrust suit reported by TechCrunch of harming news publishers' bottom lines by siphoning off their content, readers, and ad revenue?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual reported by The Verge as having given permission for withdrawals under specific conditions, by CNBC as planning an expert board for a company without investor directors, and by TechCrunch as both pleading not-guilty to multiple charges and being accused by the prosecution of committing fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "What type of establishments, as reported by Sporting News, not only modify their betting lines due to events such as injuries or team changes but also offer incentives for new users and are designed to ensure profitability regardless of betting outcomes, specifically in scenarios like forecasting the NBA Rookie of the Year?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "Which team, with a chance to win their third ODI World Cup according to Zee Business, faced a 162-run defeat in their first World Cup encounter against Australia and also played against them in the second semi-final of the 2015 World Cup?",
+    "answer": "India"
+  },
+  {
+    "query": "Which individual, featured in articles by The Verge and Fortune, is alleged to have used their position to both persuade a former Jane Street colleague to join his trading and development ventures and to inappropriately utilize customer funds, actions that are now central to fraud allegations discussed in TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which two individuals, linked by recent events reported by 'The Age' and 'The Independent - Life and Style', were seen leaving a stadium together and are the subject of dating speculations due to one being spotted cheering on the other from the box seats at Arrowhead Stadium?",
+    "answer": "Taylor Swift and Travis Kelce"
+  },
+  {
+    "query": "Which team, known for their leaders aiming to end their careers on a positive note and having previously been defeated by Argentina in Sydney and Christchurch, attempted to utilize a numerical advantage on the field by kicking for the corner in a controversial and dramatic final as reported by The Roar | Sports Writers Blog?",
+    "answer": "All Blacks"
+  },
+  {
+    "query": "Which rugby team, featured in articles from 'The Independent - Sports' and 'The Roar | Sports Writers Blog', faced home defeats to Ireland, South Africa, and Argentina, aimed to utilize a numerical advantage by kicking for the corner, and has players striving to conclude their careers on a high note, while also having lost to Argentina both in Christchurch and previously in Sydney?",
+    "answer": "All Blacks"
+  },
+  {
+    "query": "What is the name of the company that, according to TechCrunch, observes and improves upon its competitors' unsuccessful attempts with sophisticated products, and is also mentioned by The Verge for enforcing standard conditions on developers, manufacturers, and network operators through its marketplace and payment infrastructure?",
+    "answer": "Apple"
+  },
+  {
+    "query": "Who is the individual that, according to different reports from Fortune, The Verge, and TechCrunch, allegedly used a colleague as a cover for unauthorized financial activities, portrayed a reliable image in the crypto sector before a major company's failure, and is accused by the prosecution of engaging in fraudulent acts for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "What type of establishments, as reported by Sporting News, are known to manipulate betting lines in response to events like injuries, and are also capable of ensuring profit from the odds regardless of the outcome, particularly in situations like the NBA Rookie of the Year bets?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "What country, featured in articles from both 'Fortune' and 'Business Today | Latest Stock Market And Economy News India', has recently been involved in issuing a relocation warning in Gaza, controlling the entry of essential supplies there, and experienced a surprise attack due to an intelligence failure?",
+    "answer": "Israel"
+  },
+  {
+    "query": "Which football club, recently struggling in the Premier League according to Insidesport, has also been eliminated from European competitions as reported by Sporting News following a loss at their home ground, Old Trafford?",
+    "answer": "Manchester United"
+  },
+  {
+    "query": "Who is the individual that communicated to Paradigm about intending to establish a board with specialists for a cryptocurrency exchange, while preferring not to have investors as directors, and is also the same person who, during a court proceeding with Judge Lewis Kaplan, conceded to being aware of a significant financial discrepancy, and is accused by the prosecution of deliberately engaging in fraudulent activities to gain wealth, power, and influence, as reported by Cnbc | World Business News Leader, The Verge, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which global cryptocurrency exchange, reported by both TechCrunch and CNBC as the largest of its kind within 180 days of its June 2017 launch, withdrew a multi-billion dollar equivalent in assets from FTX and is still operational despite its CEO agreeing to step down following legal challenges?",
+    "answer": "Binance"
+  },
+  {
+    "query": "Who is the individual that was once likened to a reputable investor and portrayed as a reliable figure in the cryptocurrency sector by 'The Verge', but was not endorsed by 'TechCrunch', and is now facing charges as alleged by 'TechCrunch', with the prosecution claiming fraudulent actions for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual that, according to articles from The Verge and TechCrunch, faced Judge Lewis Kaplan's intervention over a financial discrepancy, set conditions for withdrawing money from a trading account, and is alleged by the prosecution to have committed fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual facing a criminal trial on fraud charges, previously likened to a prominent investor, and is accused of misusing customer funds from a cryptocurrency exchange, as reported by TechCrunch and The Verge?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company is at the center of an antitrust lawsuit, as reported by The Verge and TechCrunch, where it is accused of engaging in anticompetitive behavior within the app distribution and payment processing markets, and has also been portrayed as spending billions to maintain its default search engine status while allegedly harming news publishers' bottom lines through content and revenue siphoning?",
+    "answer": "Google"
+  },
+  {
+    "query": "Which company, recently scrutinized in TechCrunch articles for its alleged anticompetitive behavior in app distribution and ad revenue practices, also claimed that its new AI model Gemini has architecture and capabilities that rival those of leading generative AI models like GPT-4?",
+    "answer": "Google"
+  },
+  {
+    "query": "What team, featured in articles from 'The Roar | Sports Writers Blog' about their leaders aiming to end careers positively and being self-motivated, also suffered a defeat by Argentina in Christchurch and failed to defend successfully on their goal line against the Springboks in a dramatic final?",
+    "answer": "All Blacks"
+  },
+  {
+    "query": "What is the name of the AI developed by OpenAI that Engadget reported as having a significant rise in usage during December 2022 and that TechCrunch identified as having the ability to perform a diverse range of tasks including coding, composing music, and writing poetry?",
+    "answer": "ChatGPT"
+  },
+  {
+    "query": "Which company, frequently mentioned in articles by TechCrunch and The Verge, has been reported to invest billions to become the default search engine on various platforms, alter the internet's appearance through its initiatives, only release a 'lite' version of an AI model despite showcasing a full version, and has faced a class action antitrust suit for allegedly harming news publishers' revenue and content distribution?",
+    "answer": "Google"
+  },
+  {
+    "query": "What is the platform criticized by Sarah Michelle Gellar for its parental controls and where players can spend money on in-game items, which is also exploring the development of generative AI to create user-like virtual doppelgangers, as reported by 'The Independent - Life and Style' and 'The Verge'?",
+    "answer": "Roblox"
+  },
+  {
+    "query": "Which company, recently involved in an antitrust battle where it provided extensive documentation to the court, was also mentioned by a news publisher in a class action lawsuit for its alleged anticompetitive practices, and is considered by Apple to be the only viable option for search engine services, despite not planning additional measures for its video platform as per reports from TechCrunch and The Verge?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual that was portrayed as a trustworthy cryptocurrency figure, allegedly built a successful exchange on falsehoods, and is accused of using customer funds for a buyout and committing fraud for personal gain, as reported by Fortune, The Verge, and TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which sports betting platform, reported by both Sporting News and CBSSports.com, provides a sign-up incentive that could include a $1,000 Bonus Bet for new users in Vermont and also caters to fans of the NBA and PGA Tour with various promotions and betting options?",
+    "answer": "Caesars Sportsbook"
+  },
+  {
+    "query": "Who is the individual facing a criminal trial on seven counts of fraud and conspiracy, previously likened to a financial icon but not by TechCrunch, and is accused by the prosecution of committing fraud for wealth, power, and influence?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual, once likened to a prominent investor and seen as a reputable figure in the cryptocurrency world by some, but not by TechCrunch, and is now facing trial with allegations of fraud that could potentially overshadow his previous portrayal in the industry?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which public figure, who was recognized by 'The Independent - Life and Style' as Time's Person of the Year and is known for her ability to keep major events private as noted by 'BBC News - Entertainment & Arts', has been the subject of rumors involving a friendship bracelet mentioned in articles from both 'The Age' and 'CBSSports.com'?",
+    "answer": "Taylor Swift"
+  },
+  {
+    "query": "Which company, covered by both The Verge and Engadget, is known for its privacy stance in a legal context, plans to focus on Macs and new chipsets at an upcoming event, and enforces uniform terms through its store and payment system?",
+    "answer": "Apple"
+  },
+  {
+    "query": "Who is the individual implicated in the FTX collapse, as reported by TechCrunch, who allegedly instructed a subordinate to use $14 billion of customer funds to repay debts, advised a trader on withdrawal limits based on total trading revenue as per The Verge, and is accused by the prosecution of committing fraud for personal gain, according to another article by TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual implicated in a scandal involving a $14 billion misappropriation at a crypto exchange, which was reported by both TechCrunch and Fortune, and is accused of achieving his status through deceitful means according to allegations mentioned in articles from TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual associated with FTX that was reported by Fortune to have built success on falsehoods, and by TechCrunch to have both denied legal accusations of fraud and conspiracy, and is alleged by the prosecution to have committed fraud for personal gain?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company, as reported by TechCrunch, has been compared to OpenAI's GPT-3.5 in terms of performance, is involved in an antitrust case due to its financial practices to maintain default search engine status, and is accused of harming news publishers' revenues through anticompetitive behavior?",
+    "answer": "Google"
+  },
+  {
+    "query": "What group of individuals engaging with Sporting News has the flexibility to utilize various betting strategies across different sports and events, while also needing to be mindful of promotional restrictions and capitalizing on event hype?",
+    "answer": "Bettors"
+  },
+  {
+    "query": "What type of establishments, as reported by Sporting News, would modify their betting lines due to team news or sentiment, player injuries or roster changes, and information affecting NBA Rookie of the Year predictions, while also providing welcome bonuses to new bettors?",
+    "answer": "Sportsbooks"
+  },
+  {
+    "query": "What is the name of the leading AI development company that is not only the creator behind ChatGPT and is planning to release GPT-4 with vision alongside GPT-4 Turbo API, but is also anticipated to champion an \"app store for AI\" as a key platform for AI tools and toys, as reported by TechCrunch?",
+    "answer": "OpenAI"
+  },
+  {
+    "query": "What company is associated with the AI model Gemini, which claims to rival the performance of GPT-4, and is also the subject of a class action antitrust suit reported by TechCrunch for harming news publishers' revenues and content through alleged anticompetitive practices?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual implicated in the courtroom drama covered by TechCrunch for instructing Caroline Ellison to take billions from customers to cover debts, is accused by the prosecution of committing fraud for personal gain, and was discussed in The Verge for informing a trader about permissible withdrawals from an account, which should not exceed the company's total trading revenue?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual implicated in instructing Caroline Ellison to use $14 billion of customer funds to repay debts, as reported by TechCrunch, and is also alleged by the prosecution to have committed fraud for personal gain, according to another article from TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Who is the individual that informed Paradigm about intending to establish an expert board for FTX, as reported by a World Business News Leader, and is also accused by the prosecution of committing fraud for personal gain, as covered by TechCrunch?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "Which company is the subject of criticism in articles from both 'The Age' and 'TechCrunch' for practices that involve manipulating search results to maximize ad revenue and siphoning off content and revenue from news publishers?",
+    "answer": "Google"
+  },
+  {
+    "query": "Who is the individual whose legal and financial actions are under scrutiny, as depicted by contrasting portrayals in 'Fortune', where his ability to manage two major businesses was questioned by 'The Verge', and who is accused of fraudulent activities according to 'TechCrunch'?",
+    "answer": "Sam Bankman-Fried"
+  },
+  {
+    "query": "What is the name of the OpenAI-developed, general-purpose chatbot reported by TechCrunch to have a wide range of capabilities such as debugging code and composing essays, which Engadget noted had a significant usage spike in December 2022, and has been identified by TechCrunch as achieving 100 million weekly active users nearly a year after its launch?",
+    "answer": "ChatGPT"
+  }
+]
